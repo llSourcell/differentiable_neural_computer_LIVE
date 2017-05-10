@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the code for [this](https://youtu.be/r5XKzjTFCZQ) video on Youtube by Siraj Raval as part of the Deep Learning Nanodegree with Udacity. We're going to build a Differentiable Neural Computer capabale of learning the mapping between binary inputs and outputs. The point of this demo is to break the DNC down to its bare essentials so we can really understand how the architecture works. This is the most complex network i've ever built. And it's dope AF.
+This is the code for [this](https://youtu.be/r5XKzjTFCZQ) video on Youtube by Siraj Raval as part of the Deep Learning Nanodegree with Udacity. We're going to build a Differentiable Neural Computer capable of learning the mapping between binary inputs and outputs. The point of this demo is to break the DNC down to its bare essentials so we can really understand how the architecture works. This is the most complex network i've ever built. And it's dope AF.
 
 ## Dependencies
 
